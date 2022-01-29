@@ -1,0 +1,40 @@
+# English Courses Website and HTML, CSS, JS Application
+
+> Individual Project. Landing page for an English language school in Russia.
+
+### Status: active
+
+### Website link: [https://natashaswan.github.io/English-Courses-website/](https://natashaswan.github.io/English-Courses-website/)
+___
+## Table of Contents
+1. [Description](#description)
+2. [Improvement Opportunities](#improvement-opportunities)
+3. [Technologies Used](#technologies-used)
+
+---
+## Description
+This landing page hosts information about the school and its founder, its address and location on the map, ways to contact and clients' testimonials. 
+
+
+## Improvement Opportunities
+1. Developing the client testimonials' section.
+2. Expanding About Us section and adding a separate page to hold it.
+3. Expanding Why Us section and adding new pages to describe each competitive advantage in detail with images and examples. 
+4. Adding more images to the carousel.
+5. Adding working links to the school's social media pages.
+6. Adding school program with start dates and schedule.
+7. Adding school curriculum and textbooks required.
+8. Adding a section on tuition.
+9. Adding a footer.
+
+
+## Technologies used
+1. HTML
+2. CSS
+3. Bootstrap
+4. JavaScript
+
+
+
+
+
